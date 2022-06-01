@@ -1,0 +1,106 @@
+---Unos Ucenika---four -_-PRIKAZI OPET-_-
+Na desnoj strani pod sekcijom 'Upravljanje podacima' možete naći dugme 'Dodaj Učenika' koje omogućava korisniku da unese novog učenika u tabelu. $
+Nakon što kliknete dugme 'Dodaj Učenika' otvori se prozor za unos novog učenika.
+1. Predstavlja polje rezervisano za ime učenika kojeg želite unijeti.
+2. Predstavlja polje rezervisano za prezime učenika kojeg želite unijeti.
+3. Predstavlja kutiju u kojoj možete izabrati kojem razredu učenik treba da pripada.
+4. Predstavlja polje rezervisano za e-mail učenika kojeg želite unijeti. (Unos nije obavezan)
+5. Predstavlja polje rezervisano za telefonski broj učenika kojeg želite unijeti. (Unos nije obavezan)
+6. Predstavlja dugme koje potvrđuje unos učenika u tabelu.
+7. Predstavlja dugme koje obustavlja unos učenika u tabelu $
+#Nakon što kliknete 'Dodaj' pojavit će se prozor koji vas obavijesti da je učenik uspješno unesen. $
+Unos učenika je gotov! Možete provjeriti unesene učenike u lijevoj tabeli na glavnom prozoru. $
+---Unos Knjiga---four
+Na desnoj strani pod sekcijom 'Upravljanje podacima' možete naći dugme 'Dodaj Knjigu' koje omogućava korisniku da unese novu knjigu u tabelu. $
+Nakon što kliknete dugme 'Dodaj Knjigu' otvori se prozor za unos nove knjige.
+1. Predstavlja polje rezervisano za ime knjige koju želite unijeti.
+2. Predstavlja polje rezervisano za ime autora knjige koju želite unijeti.
+3. Predstavlja kutiju u kojoj možete izabrati žanr kojem knjiga treba da pripada.
+4. Predstavlja polje rezervisano za količinu kopija knjige koju želite unijeti.
+5. Predstavlja dugme koje potvrđuje unos knjige u tabelu.
+6. Predstavlja dugme koje obustavlja unos knjige u tabelu. $
+#Nakon što kliknete 'Dodaj' pojavit će se prozor koji vas obavijesti da je knjiga uspješno unesena. $
+Unos knjige je gotov! Možete provjeriti unesene knjige u lijevoj tabeli na glavnom prozoru nakon što kliknete dugme 'Knjige'. $
+---Izmjena Ucenika---four
+Da biste izvršili izmjenu učenika prvo morate izabrati učenika kojeg želite izmjeniti, izbor učenika možete pronaći u glavnoj tabeli. $
+Nakon što kliknete dugme 'Izmjena' otvori se prozor za mijenjanje podataka učenika. $
+Ovaj prozor je malo drugačiji od prozora za unos. Podaci koji su već uneseni u poljima su trenutni podaci izabranog učenika.
+1. Predstavlja polje rezervisano za već uneseno ime učenika.
+2. Predstavlja polje rezervisano za već uneseno prezime učenika.
+3. Predstavlja kutiju u kojoj možete izabrati kojem razredu učenik treba da pripada.
+4. Predstavlja polje rezervisano za e-mail učenika.
+5. Predstavlja polje rezervisano za telefonski broj učenika.
+6. Predstavlja dugme koje potvrđuje promjenu.
+7. Predstavlja dugme koje obustavlja promjenu. $
+#Nakon što kliknete 'Izmjeni' nećete dobiti nikakvu notifikaciju, ovo znaći da je izmjena uspješno spremljena u bazu podataka. $
+---Izmjena Knjiga---four
+Da biste izvršili izmjenu knjiga prvo morate izabrati knjigu koju želite izmjeniti, izbor knjiga možete pronaći u glavnoj tabeli. $
+Nakon što kliknete dugme 'Izmjena' otvori se prozor za mijenjanje podataka knjige. $
+Ovaj prozor je malo drugačiji od prozora za unos. Podaci koji su već uneseni u poljima su trenutni podaci izabrane knjige.
+1. Predstavlja polje rezervisano za već uneseno ime knjige.
+2. Predstavlja polje rezervisano za već unesenog autora knjige.
+3. Predstavlja kutiju u kojoj možete izabrati kojem žanru knjiga pripada.
+4. Predstavlja polje rezervisano za prikaz broja dostupnih kopija izabrane knjige.
+5. Predstavlja dugme koje potvrđuje promjenu.
+6. Predstavlja dugme koje obustavlja promjenu. $
+#Nakon što kliknete 'Izmjeni' nećete dobiti nikakvu notifikaciju, ovo znaći da je izmjena uspješno spremljena u bazu podataka. $
+---Brisanje---four
+Da biste izvršili brisanje prvo morate izabrati red koji želite izbrisati, izbor učenika/knjiga možete pronaći u glavnoj tabeli. $
+Nakon što kliknete dugme 'Obriši red' otvori se prozor na kojem morate potvrditi brisanje reda. $
+Ovaj prozor je jednostavan.
+1.Predstavlja dugme koje potvrđuje brisanje reda.
+2.Predstavlja dugme koje obustavlja brisanje reda. $
+#Nakon što kliknete 'Yes' nećete dobiti nikakvu notifikaciju, ovo znaći da je red uspješno izbrisan i promjene možete pronaći nazad u glavnoj tabeli. $
+---Providnost i Boje---three
+U gornjem lijevom čošku možete pronaći pločicu za personalizaciju providnosti aplikacije.
+1.Predstavlja opciju pomoću koje aplikaciju obojite bijelom bojom.
+2.Predstavlja opciju pomoću koje aplikaciju obojite crnom bojom.
+3.Predstavlja opciju pomoću koje možete promijeniti providnost prozora u aplikaciji. $
+#Na desnoj strani možete vidjeti kako bi aplikacija izgledala pod crnom bojom.
+Na lijevoj strani možete vidjeti kako bi aplikacija izgledala pod bijelom bojom. $
+#Pomoću ove kutije možete promijeniti providnost prozora u aplikaciji. 100% znači potpuno popunjeno dok 0% znači potpuno providno. $
+---Pregled razreda i knjiga---
+Na gornjoj slici je prikazana glavna tabela koja predstavlja informacije svih učenika. Ako želite da i vi sami pristupite ovim informacijama pređite na sljedeći slajd. $
+Da biste pristupili informacijama svih učenika kao na prethodnoj slici jednostavno trebate naći dugme 'Razredi' u gornjem lijevom čošku aplikacije. $
+Na gornjoj slici je prikazana glavna tabela koja predstavlja informacije svih knjiga. Ako želite da i vi sami pristupite ovim informacijama pređite na sljedeći slajd. $
+Da biste pristupili informacijama svih knjiga kao na prethodnoj slici jednostavno trebate naći dugme 'Knjige' na lijevoj strani aplikacije. $
+---Pregled Loga---
+Da biste pristupili informacijama svih podignutih knjiga morate prvo kliknuti na dugme 'Log' na desnoj strani aplikacije. $
+Ovo će otvoriti drugu tabelu. Njena funkcija je da prati i prikazuje informacije o dizanju i vraćanju knjiga. Svaka podignuta ili vraćena knjiga će biti zapamćena u ovoj tabeli. $
+Da biste bolje razumjeli detaljne informacije koje ova tabela pruža molimo vas da pažljivo pregledate sliku koja se nalazi iznad ovog teksta.
+1.Predstavlja ime učenika koji je podigao ili vratio knjigu.
+2.Predstavlja prezime učenika.
+3.Predstavlja razred učenika.
+4.Predstavlja autora knjige koja je podignuta ili vraćena.
+5.Predstavlja datum kada je knjiga podignuta ili vraćena.
+6.Predstavlja trenutni status knjige u relaciji sa prethodnim učenikom. U slučaju da je učenik podigao ili vratio podignutu knjigu onda će u polju pisati 'Podignuto' ili 'Vraceno'.$
+#U slučaju da želite zatvoriti drugu tabelu kako bi glavna tabela imala više prostora jednostavno pritisnite dugme 'Zatvori drugu tabelu' na desnoj strani aplikacije. $
+---Podizanje Knjige---five
+Da biste unijeli da je učenik podigao knjigu prvo ih morate izabrati u glavnoj tabeli. $
+Zatim pritisnete dugme 'Podigni Knjigu' na desnoj strani aplikacije. $
+Nakon toga će se otvoriti lista knjiga koje učenik može podignuti u glavnoj tabeli.
+Izaberite knjigu koju je učenik podigao. $
+#Zatim pritisnitie dugme 'Potvrdi' koja se nalazi na desnoj strani aplikacije na istom mjestu gdje je 'Podigni Knjigu' bilo. $
+Ako vam ne izađe nikakva notifikacija to znaći da je podizanje knjige uspješno zapamćeno u našoj bazi podataka. Možete provjeriti datum podizanja knjige u drugoj tabeli kada otvorite 'Log'. $
+---Kreiranje Razreda---three
+Da biste kreirali novi razred morate prvo kliknuti na dugme 'Dodaj Razred' na desnoj strani aplikacije. $
+Ovo će otvoriti prozor na koje možete izabrati grupaciju kojoj vaš razred pripada i njegovu klasifikaciju.
+1.Predstavlja trenutne grupacije kojima možete pridružiti svoj razred. Važno je da izaberete grupaciju koja vam odgovara inače razred neće biti tačno unesen.
+2.Predstavlja ime vašeg razreda. Ime razreda mora biti rimski broj!
+3.Predstavlja odjeljenje koje će vaš razred imati.
+4.Predstavlja dugme pomoću kojeg potvrđujete kreiranje razreda. $
+#Vaš razred je sada kreiran! Možete ga provjeriti u gornjoj lijevoj strani aplikacije pod svojom određenom grupacijom. $
+---Vracanje Knjige---five
+Da biste unijeli da je učenik vratio knjigu prvo tog učenika morate naći u drugoj tabeli pa ih morate izabrati u glavnoj tabeli. $
+Zatim pritisnete dugme 'Vrati Knjigu' na desnoj strani aplikacije. $
+Nakon toga će se otvoriti lista knjiga koje je učenik podigao u glavnoj tabeli.
+Izaberite knjigu koju je učenik podigao. $
+#Zatim pritisnitie dugme 'Potvrdi' koja se nalazi na desnoj strani aplikacije na istom mjestu gdje je 'Vrati Knjigu' bilo. $
+Ako vam ne izađe nikakva notifikacija to znaći da je vraćanje knjige uspješno zapamćeno u našoj bazi podataka. Možete provjeriti datum vraćanja knjige u drugoj tabeli kada otvorite 'Log'. $
+---Velicina Fonta---
+Tokom korištenja ove aplikacije možda ste naišli na problem veličine fonta u tabelama. U slučaju da je font premal možete ga lako promijeniti.
+Na desnoj strani aplikacije pod blokom 'Personalizacija' možete naći kutiju 'Veličina Fonta' pomoću koje možete promijeniti veličinu fonta u tabelama. $
+#Minimalna veličina fonta je 9 tj. standardna veličina teksta.
+Maksimalna veličina fonta je 30. $
+#Na gornjoj slici možete vidjeti tabelu sa fontom veličine 19. $
+U slučaju da ste stavili veličinu fonta pod kojom tekst postane prevelik za tabelu onda možete pomijerati pogled tabele na desnu i lijevu strani te gore i dole. $

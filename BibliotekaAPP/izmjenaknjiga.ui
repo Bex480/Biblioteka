@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>izmjenaKnjiga</class>
+ <widget class="QDialog" name="izmjenaKnjiga">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>264</width>
+    <height>204</height>
+   </rect>
+  </property>
+  <property name="minimumSize">
+   <size>
+    <width>264</width>
+    <height>204</height>
+   </size>
+  </property>
+  <property name="maximumSize">
+   <size>
+    <width>264</width>
+    <height>204</height>
+   </size>
+  </property>
+  <property name="windowTitle">
+   <string>Dialog</string>
+  </property>
+  <property name="styleSheet">
+   <string notr="true">background-color: rgb(181, 181, 181);</string>
+  </property>
+  <layout class="QGridLayout" name="gridLayout">
+   <item row="0" column="0">
+    <widget class="QLabel" name="label">
+     <property name="font">
+      <font>
+       <family>Segoe Script</family>
+       <pointsize>11</pointsize>
+       <weight>75</weight>
+       <bold>true</bold>
+      </font>
+     </property>
+     <property name="text">
+      <string>    IZMJENA KNJIGE</string>
+     </property>
+     <property name="alignment">
+      <set>Qt::AlignCenter</set>
+     </property>
+    </widget>
+   </item>
+   <item row="1" column="0">
+    <layout class="QFormLayout" name="formLayout">
+     <item row="0" column="0">
+      <layout class="QVBoxLayout" name="verticalLayout_2">
+       <item>
+        <widget class="QLabel" name="label_2">
+         <property name="text">
+          <string>Naziv:</string>
+         </property>
+        </widget>
+       </item>
+       <item>
+        <widget class="QLabel" name="label_3">
+         <property name="text">
+          <string>Autor:</string>
+         </property>
+        </widget>
+       </item>
+       <item>
+        <widget class="QLabel" name="label_5">
+         <property name="text">
+          <string>Zanr:</string>
+         </property>
+        </widget>
+       </item>
+       <item>
+        <widget class="QLabel" name="label_4">
+         <property name="text">
+          <string>Kolicina:</string>
+         </property>
+        </widget>
+       </item>
+      </layout>
+     </item>
+     <item row="0" column="1">
+      <layout class="QVBoxLayout" name="verticalLayout">
+       <item>
+        <widget class="QLineEdit" name="naziv">
+         <property name="styleSheet">
+          <string notr="true">background-color: rgb(255, 255, 255);</string>
+         </property>
+        </widget>
+       </item>
+       <item>
+        <widget class="QLineEdit" name="autor">
+         <property name="styleSheet">
+          <string notr="true">background-color: rgb(255, 255, 255);</string>
+         </property>
+        </widget>
+       </item>
+       <item>
+        <widget class="QComboBox" name="zanr">
+         <property name="styleSheet">
+          <string notr="true">background-color: rgb(255, 255, 255);</string>
+         </property>
+         <item>
+          <property name="text">
+           <string/>
+          </property>
+         </item>
+         <item>
+          <property name="text">
+           <string>Kriminalistički romani</string>
+          </property>
+         </item>
+         <item>
+          <property name="text">
+           <string>Humoristični romani</string>
+          </property>
+         </item>
+         <item>
+          <property name="text">
+           <string>Romantizam</string>
+          </property>
+         </item>
+         <item>
+          <property name="text">
+           <string>Fantastika</string>
+          </property>
+         </item>
+         <item>
+          <property name="text">
+           <string>Triler</string>
+          </property>
+         </item>
+         <item>
+          <property name="text">
+           <string>Modernizam</string>
+          </property>
+         </item>
+         <item>
+          <property name="text">
+           <string>Putopis</string>
+          </property>
+         </item>
+         <item>
+          <property name="text">
+           <string>Enciklopedistika</string>
+          </property>
+         </item>
+         <item>
+          <property name="text">
+           <string>Saga</string>
+          </property>
+         </item>
+         <item>
+          <property name="text">
+           <string>Znanstvena fantastika</string>
+          </property>
+         </item>
+         <item>
+          <property name="text">
+           <string>Horor</string>
+          </property>
+         </item>
+         <item>
+          <property name="text">
+           <string>Dramski romani</string>
+          </property>
+         </item>
+         <item>
+          <property name="text">
+           <string>Psihološki i filozofski romani</string>
+          </property>
+         </item>
+        </widget>
+       </item>
+       <item>
+        <widget class="QLineEdit" name="kolicina">
+         <property name="styleSheet">
+          <string notr="true">background-color: rgb(255, 255, 255);</string>
+         </property>
+        </widget>
+       </item>
+      </layout>
+     </item>
+    </layout>
+   </item>
+   <item row="2" column="0">
+    <layout class="QHBoxLayout" name="horizontalLayout_2">
+     <property name="spacing">
+      <number>25</number>
+     </property>
+     <property name="leftMargin">
+      <number>5</number>
+     </property>
+     <property name="topMargin">
+      <number>10</number>
+     </property>
+     <property name="bottomMargin">
+      <number>0</number>
+     </property>
+     <item>
+      <widget class="QPushButton" name="izmjeni">
+       <property name="styleSheet">
+        <string notr="true">background-color: rgb(206, 206, 206);</string>
+       </property>
+       <property name="text">
+        <string>Izmjeni</string>
+       </property>
+      </widget>
+     </item>
+     <item>
+      <widget class="QPushButton" name="nazad">
+       <property name="styleSheet">
+        <string notr="true">background-color: rgb(206, 206, 206);</string>
+       </property>
+       <property name="text">
+        <string>Nazad</string>
+       </property>
+      </widget>
+     </item>
+    </layout>
+   </item>
+  </layout>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>

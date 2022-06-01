@@ -1,0 +1,116 @@
+<RCC>
+    <qresource prefix="/">
+        <file>library-1.jpg</file>
+        <file>pic1.jpg</file>
+        <file>white.png</file>
+        <file>wood.jpg</file>
+        <file>Resursi/Screenshot_1113.png</file>
+        <file>Resursi/EDITFINAL2.png</file>
+        <file>Resursi/Screenshot_1231.png</file>
+        <file>Resursi/Screenshot_1234.png</file>
+        <file>Resursi/Screenshot_1236.png</file>
+        <file>Resursi/Ucenik.png</file>
+        <file>Resursi/Screenshot_1233.png</file>
+        <file>Resursi/Screenshot_1237.png</file>
+        <file>Resursi/Screenshot_1238.png</file>
+        <file>Resursi/Screenshot_1231 - kopija.png</file>
+        <file>Resursi/Screenshot_1234 - kopija.png</file>
+        <file>Resursi/EDITFINAL2 - kopija.png</file>
+        <file>Resursi/Screenshot_1236 - kopija.png</file>
+        <file>Resursi/Screenshot_1262.png</file>
+        <file>Resursi/crescent-moon-emoji.png</file>
+        <file>Resursi/Screenshot_1281.png</file>
+        <file>Resursi/Screenshot_1282.png</file>
+        <file>Resursi/Screenshot_1283.png</file>
+        <file>Resursi/Unos Ucenika 1.png</file>
+        <file>Resursi/Screenshot_1302.png</file>
+        <file>Resursi/Screenshot_1303.png</file>
+        <file>Resursi/Unos Ucenika 2.png</file>
+        <file>Resursi/Unos Ucenika 3.png</file>
+        <file>Resursi/Unos Ucenika 4.png</file>
+        <file>Resursi/Counter 4-1.png</file>
+        <file>Resursi/Counter 4-3.png</file>
+        <file>Resursi/Counter 4-4.png</file>
+        <file>Resursi/Counter 4-2.png</file>
+        <file>Resursi/Unos Knjiga 1.png</file>
+        <file>Resursi/Unos Knjiga 2.png</file>
+        <file>Resursi/Unos Knjiga 3.png</file>
+        <file>Resursi/Unos Knjiga 4.png</file>
+        <file>Resursi/Izmjena Ucenika 2.png</file>
+        <file>Resursi/Izmjena Ucenika 1.png</file>
+        <file>Resursi/Izmjena Ucenika 3.png</file>
+        <file>Resursi/Izmjena Ucenika 4.png</file>
+        <file>Resursi/Izmjena Knjiga 1.png</file>
+        <file>Resursi/Izmjena Knjiga 3.png</file>
+        <file>Resursi/Izmjena Knjiga 2.png</file>
+        <file>Resursi/Izmjena Knjiga 4.png</file>
+        <file>Resursi/Tekst.txt</file>
+        <file>Resursi/Brisanje 1.png</file>
+        <file>Resursi/Brisanje 2.png</file>
+        <file>Resursi/Brisanje 3.png</file>
+        <file>Resursi/Brisanje 4.png</file>
+        <file>Resursi/Providnost i Boje 1.png</file>
+        <file>Resursi/Providnost i Boje 2.png</file>
+        <file>Resursi/Providnost i Boje 3.png</file>
+        <file>Resursi/Counter 3-1.png</file>
+        <file>Resursi/Counter 3-2.png</file>
+        <file>Resursi/Counter 3-3.png</file>
+        <file>Resursi/Pregled razreda i knjiga 1.png</file>
+        <file>Resursi/Pregled razreda i knjiga 3.png</file>
+        <file>Resursi/Pregled razreda i knjiga 4.png</file>
+        <file>Resursi/Pregled razreda i knjiga 2.png</file>
+        <file>Resursi/Pregled Loga 3.png</file>
+        <file>Resursi/Pregled Loga 2.png</file>
+        <file>Resursi/Pregled Loga 1.png</file>
+        <file>Resursi/Pregled Loga 4.png</file>
+        <file>Resursi/Counter 5-1.png</file>
+        <file>Resursi/Counter 5-2.png</file>
+        <file>Resursi/Counter 5-3.png</file>
+        <file>Resursi/Counter 5-4.png</file>
+        <file>Resursi/Counter 5-5.png</file>
+        <file>Resursi/Podizanje Knjige 1.png</file>
+        <file>Resursi/Podizanje Knjige 2.png</file>
+        <file>Resursi/Podizanje Knjige 3.png</file>
+        <file>Resursi/Podizanje Knjige 4.png</file>
+        <file>Resursi/Podizanje Knjige 5.png</file>
+        <file>Resursi/Razred.png</file>
+        <file>Resursi/Edit_Razredi.png</file>
+        <file>Resursi/Delete_Razredi.png</file>
+        <file>Resursi/Edit_Razredi_Real_White.png</file>
+        <file>Resursi/Delete_Razredi_Real_White.png</file>
+        <file>Resursi/Razred_Real_White.png</file>
+        <file>Resursi/Kreiranje Razreda 1.png</file>
+        <file>Resursi/Kreiranje Razreda 2.png</file>
+        <file>Resursi/Kreiranje Razreda 3.png</file>
+        <file>Resursi/Bijela Boja.png</file>
+        <file>Resursi/Crna Boja.png</file>
+        <file>Resursi/Biblioteka.jpeg</file>
+        <file>Resursi/Vracanje Knjige 1.png</file>
+        <file>Resursi/Vracanje Knjige 2.png</file>
+        <file>Resursi/Vracanje Knjige 3.png</file>
+        <file>Resursi/Vracanje Knjige 4.png</file>
+        <file>Resursi/Vracanje Knjige 5.png</file>
+        <file>Resursi/Uvod 1.png</file>
+        <file>Resursi/dummy.txt</file>
+        <file>Resursi/Podigni Knjigu Ikonica.png</file>
+        <file>Resursi/Vrati Knjigu Ikonica.png</file>
+        <file>Resursi/Velicina Fonta 1.png</file>
+        <file>Resursi/Velicina Fonta 2.png</file>
+        <file>Resursi/Velicina Fonta 3.png</file>
+        <file>Resursi/Velicina Fonta 4.png</file>
+        <file>Resursi/Log Icon.png</file>
+        <file>Resursi/Rok Icon.png</file>
+        <file>Resursi/Rok Ikonica Dan.png</file>
+        <file>Resursi/Log Icon Dan.png</file>
+        <file>Resursi/Rok Ikonica Dan.png</file>
+        <file>Resursi/Ucitavanje.png</file>
+        <file>Resursi/Ucitavanje_Light.png</file>
+        <file>Resursi/BibliotekaDruga.png</file>
+        <file>Resursi/Livada.png</file>
+        <file>Resursi/More.png</file>
+        <file>Resursi/Grad.png</file>
+        <file>Resursi/Planine.png</file>
+        <file>Resursi/Pustinja.png</file>
+        <file>Resursi/PersonalizacijaSave.txt</file>
+    </qresource>
+</RCC>
